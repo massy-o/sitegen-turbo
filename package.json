@@ -1,0 +1,6 @@
+{
+  "name": "sitegen-turbo",
+  "private": true,
+  "type": "module",
+  "description": "A byte-exact, high-speed drop-in reimplementation of makefun-site 1.0.0"
+}
